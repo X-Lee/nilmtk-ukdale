@@ -1,4 +1,4 @@
-# Lab Dataset
+# Lab Dataset  ddff 
 This dataset contains the recorded appliances data. Each folder of combined appliances contains the train and test data, with each aggregated and individual appliances data in csv files.
 Files contain the summarized (1Hz) data with 12 features.
 
